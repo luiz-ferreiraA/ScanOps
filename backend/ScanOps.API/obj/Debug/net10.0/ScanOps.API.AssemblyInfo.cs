@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScanOps.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1cca1515ac70cae59c6f21f1872de5d9b8cd191")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73f482c213401e741938c248c20f125bbbc17378")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScanOps.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScanOps.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
